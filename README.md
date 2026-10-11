@@ -1,3 +1,4 @@
+
 # 薄肌人生
 
 把长访谈变成可以继续追问的资料。
@@ -6,11 +7,11 @@
 
 ## 下载
 
-- [下载薄肌人生.skill.zip](./薄肌人生.skill.zip?raw=true)
+- [下载薄肌人生.skill.zip](https://raw.githubusercontent.com/ApprenticeJUN/boji-rensheng/26343ae9fcad1b8528599cea03c878802cd978e6/%E8%96%84%E8%82%8C%E4%BA%BA%E7%94%9F.skill.zip)
 - [完整使用介绍](./使用介绍.txt)
 - 技能入口与全部主题文件均在安装包内：`boji-rensheng/SKILL.md`、`boji-rensheng/references/`。
 
-下载页如显示文件预览，点击 **Download raw file**；解压后保留完整的 `boji-rensheng` 文件夹。
+下载后解压，保留完整的 `boji-rensheng` 文件夹。
 
 ## 开始使用
 
